@@ -12,6 +12,8 @@ color:
     - '#9768D1'
 opengraph:
   appId: aerobatica@gmail.com
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/7feb8855-a1af-49fa-b17c-932f57623cee.jpg
 layout_spectrum: 0.22887511947192252
 author:
   name: José Luís Nunes Martins
